@@ -1,3 +1,8 @@
+// File Name: COMP229-F2020-MidTerm-301145346 Author: Irits Anna Mathew
+// Course Code & Name: COMP229 Web Application Development
+// Student ID: 301145346
+
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
